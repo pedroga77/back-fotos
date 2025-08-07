@@ -7,10 +7,9 @@
  Projeto de Volta as Aulas, com fake api utilizand o java server. 
  ---
  ## Tencologias utilizadas
- - HTML
- - CSS
- - Java Script
 
+ - Java Script
+ 
  ---
  ## Autor
 
